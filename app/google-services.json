@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1070662518338",
+    "firebase_url": "https://eleamlveb.firebaseio.com",
+    "project_id": "eleamlveb",
+    "storage_bucket": "eleamlveb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070662518338:android:c9a550d113f253df",
+        "android_client_info": {
+          "package_name": "com.example.proyecteleam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070662518338-7b4l1qocfa79kd9jloerful32ab8h0ls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyecteleam",
+            "certificate_hash": "e819c43c82260867525d95cd9857f9f5bc81594b"
+          }
+        },
+        {
+          "client_id": "1070662518338-41civmam2vgdem0pl4n53ldihrvpio0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNR7doYal2zVTs33MtFT2-g1ffOrLjnlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070662518338-41civmam2vgdem0pl4n53ldihrvpio0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
